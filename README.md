@@ -13,19 +13,19 @@ Currently I have three videos related to **Stats** and **Magic functions in ipyt
 
 ### [Bernoulli and Binomial Distribution Link](https://youtu.be/e-n4xQaX_gA)
 ---
-<img src='res/possion.jpg' width=600px>
+<img src='res/poisson.jpg' width=600px>
 
-### [Possion Distribution  Link](https://youtu.be/Q6w7W8zUnGk)
+### [Poisson Distribution  Link](https://youtu.be/Q6w7W8zUnGk)
 
-File `poission.py` contains code for animation of **Possion distribution.**
+File `poisson.py` contains code for animation of **Poisson distribution.**
 
 ### In Terminal : 
 ```bash
-python3 possion.py dmg # animation for different possion mean graphs
+python3 poisson.py dmg # animation for different poisson mean graphs
 
 and
 
-python3 possion.py pac # animation for probability mass function and cummulative density function 
+python3 poisson.py pac # animation for probability mass function and cummulative density function 
 ```
 --- 
 <img src='res/ipy.jpg' width=600px>
