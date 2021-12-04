@@ -1,6 +1,6 @@
 # YouTube
 
-#### [YouTube Link](https://www.youtube.com/channel/UCBh0xDnTdouixDBmVVzRl1g)
+[YouTube Link](https://www.youtube.com/channel/UCBh0xDnTdouixDBmVVzRl1g)
 
 Welcome to my **Youtube** channel.
 <br><br>
@@ -15,7 +15,7 @@ Currently I have three videos related to **Stats** and **Magic functions in ipyt
 ---
 <img src='res/poisson.jpg' width=600px>
 
-### [Poisson Distribution  Link](https://youtu.be/Q6w7W8zUnGk)
+[Poisson Distribution  Link](https://youtu.be/Q6w7W8zUnGk)
 
 File `poisson.py` contains code for animation of **Poisson distribution.**
 
@@ -30,6 +30,9 @@ python3 poisson.py pac # animation for probability mass function and cummulative
 --- 
 <img src='res/ipy.jpg' width=600px>
 
-### [Magic functions, ipython link](https://youtu.be/Mc7Vax4VWgg)
+[Magic functions, ipython link](https://youtu.be/Mc7Vax4VWgg)
 
 
+<img src='res/squidyt.jpg' width=600px>
+
+### [Suid game link](https://youtu.be/DfTVdjLOoEY)
